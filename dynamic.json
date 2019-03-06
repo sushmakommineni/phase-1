@@ -1,0 +1,48 @@
+{
+	"profile":{
+		"img":"Tulips.jpg",
+		"name":"sushma",
+		"roll":"1274",
+		"place":"vijayawada",
+		"des":"trainer cum developer"
+	},
+	"career":{
+		"info":"i seek a position where i explore my talents for the benifits of the organization"
+	},
+	"education":[
+		{
+			"sno":"1.",
+            "degree":"b.tech",
+            "institute":"vignan",
+            "per":"90%",
+            "yop":"2018"
+		},
+	    {
+		    "sno":"2.",
+            "degree":"intermediate",
+            "institute":"vignan",
+            "per":"90%",
+            "yop":"2014"
+		},
+	    {
+			"sno":"3.",
+            "degree":"ssc",
+            "institute":"vignan",
+            "per":"90%",
+            "yop":"2012"
+		}	
+	],
+	"languages":[
+        {
+       	   "info":"english"
+        },
+        {
+       	   "info":"telugu"
+        },
+        {
+       	   "info":"hindi"
+        }
+     
+
+	]
+}

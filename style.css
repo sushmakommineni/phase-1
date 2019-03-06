@@ -1,0 +1,20 @@
+.main{
+	display:flex;
+	border:2px solid #5DF411;
+    justify-content: space-around;
+    background:white;
+}
+.s1{
+	border:2px solid #111BF4;
+	margin:5%; 
+	padding:2%;
+	background:gray;
+	text-align: center;
+	border-radius:10%;
+}
+/*h1,p{
+	text-align:center;*/
+}
+body{
+	background:orange;
+}
